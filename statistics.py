@@ -1,4 +1,4 @@
-################ imports #################################################
+################ imports ###################################################
 import pandas as pd 
 from scipy.stats import describe
 import numpy as np
@@ -8,7 +8,7 @@ from scipy import stats
 from scipy.stats import ks_2samp
 #from scipy.stats import cramervonmises_2samp
 import numpy as np
-################ parameters ###############################################
+################ parameters #################################################
 # <editor-fold desc="reading the simulations csv">
 params={}
 params["loose_df"]=pd.read_csv("C:/Users/Elinor/Desktop/תואר שני/thesis_codes/Random_wallk_files/ Simulation Analysis/second function/AEVTQHGSY.csv")
