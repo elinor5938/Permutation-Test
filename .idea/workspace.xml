@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="769d21e1-9384-4ee1-9abb-b49808a46ee1" name="Default Changelist" comment="" />
+    <list default="true" id="769d21e1-9384-4ee1-9abb-b49808a46ee1" name="Default Changelist" comment="Permutation test.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate_VS_strict.csv" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate_VS_strict.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/statistics.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/עקרונות סטטיסטיים/מטלה מסכמת" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -79,8 +85,28 @@
       <workItem from="1642778769069" duration="357000" />
       <workItem from="1642927588102" duration="8868000" />
       <workItem from="1643028144166" duration="1666000" />
-      <workItem from="1643455324819" duration="2910000" />
+      <workItem from="1643455324819" duration="3854000" />
+      <workItem from="1643463210983" duration="1676000" />
     </task>
+    <task id="LOCAL‎00001" summary="Permutation test">
+      <created>1643462290721</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1643462290721</updated>
+    </task>
+    <task id="LOCAL‎00002" summary="Permutation test">
+      <created>1643462323656</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1643462323656</updated>
+    </task>
+    <task id="LOCAL‎00003" summary="Permutation test.">
+      <created>1643462916959</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1643462916959</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +122,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Permutation test" />
+    <MESSAGE value="Permutation test." />
+    <option name="LAST_COMMIT_MESSAGE" value="Permutation test." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

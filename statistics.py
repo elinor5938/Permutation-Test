@@ -20,10 +20,6 @@ for df in params: # filtering the accepted steps for each df
 
 # </editor-fold>
 
-
-
-
-
 def calculate_disrubution_properties(data,data_name,col="total_binders",given_name=""):
     """
 
@@ -98,8 +94,11 @@ def permutation_test(df1,df2,col,df1_name,df2_name):
 
 
 main=permutation_test(params["middle_df"],params["strict_df"],"total_binders","middle_df","strict_df")
+
+main["count"]
 ks_2samp(params["middle_df"]["total_binders"].tolist(), params["strict_df"]["total_binders"].tolist())
-main.to_csv("intermediate_VS_strict")
+main=main.T
+main.to_csv("intermediate_VS_strict.csv")
 # stats.cramervonmises_2samp(params["loose_df"]["total_binders"].tolist(), params["strict_df"]["total_binders"].tolist())
 #
 # scipy.stats.cramervonmises_2samp(x, y, method='auto')
