@@ -17,7 +17,6 @@ params["strict_df"] =pd.read_csv("C:/Users/Elinor/Desktop/תואר שני/thesis
 
 for df in params: # filtering the accepted steps for each df
     params[df] = params[df][params[df]["probabilty_res_MCMC"] == "True"]
-
 # </editor-fold>
 
 def calculate_disrubution_properties(data,data_name,col="total_binders",given_name=""):
