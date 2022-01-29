@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="769d21e1-9384-4ee1-9abb-b49808a46ee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/anaconda3/Lib/site-packages/pandas/core/series.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3/Lib/site-packages/pandas/core/reshape/concat.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3/Lib/site-packages/pandas/core/generic.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3/Lib/site-packages/IPython/core/interactiveshell.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/statistics.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/anaconda3/Lib/site-packages/pandas/core/indexes/base.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/vis.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="23MhcpO8owVkFUz03NCkYrJPLvO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/עקרונות סטטיסטיים/מטלה מסכמת" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Elinor\Desktop\עקרונות סטטיסטיים\מטלה מסכמת" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="769d21e1-9384-4ee1-9abb-b49808a46ee1" name="Default Changelist" comment="" />
+      <created>1641549946135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641549946135</updated>
+      <workItem from="1641549948424" duration="27000" />
+      <workItem from="1641550004979" duration="3362000" />
+      <workItem from="1641553893398" duration="127000" />
+      <workItem from="1641554048382" duration="1045000" />
+      <workItem from="1642102237981" duration="96000" />
+      <workItem from="1642102509944" duration="830000" />
+      <workItem from="1642684897811" duration="14877000" />
+      <workItem from="1642763092067" duration="2065000" />
+      <workItem from="1642766251501" duration="2099000" />
+      <workItem from="1642768400645" duration="120000" />
+      <workItem from="1642768548871" duration="2031000" />
+      <workItem from="1642770634298" duration="3980000" />
+      <workItem from="1642778291175" duration="395000" />
+      <workItem from="1642778769069" duration="357000" />
+      <workItem from="1642927588102" duration="8868000" />
+      <workItem from="1643028144166" duration="1666000" />
+      <workItem from="1643455324819" duration="2509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vis.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
